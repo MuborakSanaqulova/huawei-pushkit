@@ -1,0 +1,16 @@
+{
+    "validate_only": false,
+    "message": {
+        "android": {
+            "notification": {
+                "title": "TEST PUSH KIT",
+                "body": "HI AM MUBORAK FROM APELSIN",
+                "click_action": {
+                    "type": 1,
+                    "intent": "#Intent;compo=com.rvr/.Activity;S.W=U;end"
+                }
+            }
+        },
+        "token": ["IQAAAACy0qiGAADi-t6_3cl50BRF6O0ZR45ubmo965eVTBSVKbDDnthSakKAjl2pMw0X-hrw0PtC5IKtjpxaqwbIMy1uRfnuBL1lh59o2fXwuxC9vw"]
+    }
+}
